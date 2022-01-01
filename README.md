@@ -1,9 +1,13 @@
 # Actionscript-3.0-digital-compass-hscdtd008a-
 
 Parts list instructions:
+
 Computer: Arduino Nano
+
 Dock: N/A (used mini usb male to microusb female)
+
 Component: hscdtd008a
+
 wires: solder the connections for the compass to work accurate.
 
 

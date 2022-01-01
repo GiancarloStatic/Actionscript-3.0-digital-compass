@@ -19,6 +19,7 @@ Arduino Nano A4 - hscdtd008a sda
 
 
 Software instructions:
+
 1.) Connect arduino nano to the usb port & open "compass_testing/compass_testing.ino" in the arduino IDE & click upload to program the board.
 
 2.)Start "usb pipe 57600 baud.exe"

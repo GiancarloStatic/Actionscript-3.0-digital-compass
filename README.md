@@ -24,6 +24,6 @@ Software instructions:
 
 2.)Start "usb pipe 57600 baud.exe"
 
-3.)Start "test compass 57600.fla" in the Actionscript 3.0 IDE & it shouled trace connected if the COM port of the Arduino Nano is 7 for this line: "sock.connect("127.0.0.1",45055+7);"
+3.)Start "test compass 57600.fla" in the Actionscript 3.0 IDE & it should trace connected if the COM port of the Arduino Nano is 7 for this line: "sock.connect("127.0.0.1",45055+7);"
 
 4.) The 3d compass in the .swf should rotate exactly to where the Arduino Nano with the compass module is facing if you are holding the compass strictly on the earths x-axis. Future versions will allow you to hold the compass in a more realistic manner to still face the correct way in the movieclip.
